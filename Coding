@@ -1,0 +1,3 @@
+// Popluate the Welcome text
+var name = "Hello Customer";
+$("#welcome").text(name);
